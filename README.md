@@ -1,2 +1,2 @@
-# Kaggle
-Kaggle Competitions
+# DH - Challenges
+DH/Kaggle Competitions
